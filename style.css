@@ -26,7 +26,6 @@ body {
     padding: 150px 0px 150px 100px;
 }
 
-
 .buttons { 
     display: flex;
     justify-content: flex-end;
@@ -42,11 +41,13 @@ button {
     border: none;
     font-family: 'Playfair Display', serif;
     font-size: 32px;
-    background-color: #412ea1;
+    background-color: #4e204c;
     color: #FEE0D7;
     padding: 5px;
     
 }
+
+/* button color options: #4e204c #732e70 #412ea1*/
 
 p {
     color: #FEE0D7;
